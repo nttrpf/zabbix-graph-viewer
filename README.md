@@ -23,3 +23,6 @@ open http://your-zabbix.example.com/zabbix/zabigraph/
 
 ![snapshot.gif](snapshot.gif)
 
+
+## License
+MIT
